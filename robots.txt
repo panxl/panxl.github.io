@@ -1,0 +1,4 @@
+Sitemap: https://panxl.net/sitemap.xml
+
+User-agent: *
+Disallow:
