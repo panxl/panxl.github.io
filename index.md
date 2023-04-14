@@ -1,4 +1,6 @@
-@def title = "Xiaoliang Pan | Home"
++++
+title = "Xiaoliang Pan | Home"
++++
 
 # About
 
