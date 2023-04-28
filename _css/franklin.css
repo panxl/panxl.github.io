@@ -340,3 +340,9 @@ code {
   height: auto;
   border-radius: 50%;
 }
+
+.franklin-content .container .toc {
+  width: 18rem !important;
+  height: auto;
+  border-radius: 0%;
+}
