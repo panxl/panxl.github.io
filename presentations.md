@@ -6,6 +6,7 @@ title = "Xiaoliang Pan | Presentations"
 
 ## Talks
 
+* ACS Southwest Regional Meeting, *Oklahoma City, OK*, **2023**
 * ACS 65th Annual Pentasectional Meeting, *Bartlesville, OK*, **2022**
 * Pacifichem 2021, *Virtual*, **2021**
 * Data Science Workshop @ OUHSC, *Virtual*, **2021** ([Video](https://mediasite.ouhsc.edu/Mediasite/channel/python/watch/d528059f8e2e4ba69d332ab2bf611b321d))
