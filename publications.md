@@ -4,7 +4,7 @@ title = "Xiaoliang Pan | Publications"
 
 # Publications
 
-1. **Pan, X.**;  Snyder, R.; Wang, J.-N.; Lander, C.; Wickizer, C.; Van, R.; Chesney, A.; Xue, Y.; Mao, Y.; Mei, Y.; Pu, J.; Shao, Y. Training machine learning potentials for reactive systems: A Colab tutorial on basic models. *J. Comput. Chem.* **2023**, *accepted*. ([Link](https://doi.org/10.26434/chemrxiv-2023-545gw))
+1. **Pan, X.**;  Snyder, R.; Wang, J.-N.; Lander, C.; Wickizer, C.; Van, R.; Chesney, A.; Xue, Y.; Mao, Y.; Mei, Y.; Pu, J.; Shao, Y. Training machine learning potentials for reactive systems: A Colab tutorial on basic models. *J. Comput. Chem.* **2023**, *accepted*. ([Link](https://doi.org/10.1002/jcc.27269))
 2. **Pan, X.**; Van, R.; Mao, Y.; Pu, J.; Nam, K.; Shao, Y. Free energy profile decomposition analysis for QM/MM simulations of enzymatic reactions. *J. Chem. Theory Comput.* **2023**, *19*, 8234–8244. ([Link](https://doi.org/10.1021/acs.jctc.3c00973))
 3. Snyder, R.; Kim, B.; **Pan, X.**; Shao, Y.; Pu, J. Bridging semiempirical and *ab initio* QM/MM potentials by Gaussian process regression and its sparse variants for free energy simulation. *J. Chem. Phys.* **2023**, *159*, 054107. ([Link](https://doi.org/10.1063/5.0156327))
 4. Wang, J.-N.; Xue, Y.; Li, P.; **Pan, X.**; Wang, M.; Shao, Y.; Mo, Y.; Mei, Y. Perspective: Reference-potential methods for the study of thermodynamic properties in chemical processes: Theory, applications, and pitfalls. *J. Phys. Chem. Lett.* **2023**, *14*, 4866–4875. ([Link](https://doi.org/10.1021/acs.jpclett.3c00671))
